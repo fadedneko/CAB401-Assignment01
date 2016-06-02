@@ -1,0 +1,79 @@
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.manifest
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.application
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.g.resources
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.exe.manifest
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.application
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.exe
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.pdb
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\Interop.DXTRANSLib.dll
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.csproj.ResolveComReference.cache
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Release\NAudio.dll
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Release\NAudio.xml
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1_MarkupCompile.lref
+C:\Users\Oliver\Downloads\Music\WpfApplication1\bin\Release\WpfApplication1.exe.config
+C:\Users\Oliver\Downloads\Music\WpfApplication1\obj\x86\Release\Interop.DXTRANSLib.dll
+C:\Users\Oliver\Downloads\Music\WpfApplication1\obj\x86\Release\WpfApplication1.csproj.ResolveComReference.cache
+C:\Users\Oliver\Downloads\Music\WpfApplication1\obj\x86\Release\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Oliver\Downloads\Music\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Users\Oliver\Downloads\Music\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Users\Oliver\Downloads\Music\WpfApplication1\obj\x86\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\Oliver\Downloads\Music\WpfApplication1\obj\x86\Release\WpfApplication1_MarkupCompile.lref
+C:\Users\Oliver\Downloads\Music\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Users\Oliver\Downloads\Music\WpfApplication1\obj\x86\Release\WpfApplication1.g.resources
+C:\Users\Oliver\Downloads\Music\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Oliver\Downloads\Music\WpfApplication1\obj\x86\Release\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Oliver\Downloads\Music\WpfApplication1\obj\x86\Release\WpfApplication1.exe
+C:\Users\Oliver\Downloads\Music\WpfApplication1\obj\x86\Release\WpfApplication1.pdb
+C:\Users\Oliver\Downloads\Music\WpfApplication1\bin\Release\WpfApplication1.exe.manifest
+C:\Users\Oliver\Downloads\Music\WpfApplication1\bin\Release\WpfApplication1.application
+C:\Users\Oliver\Downloads\Music\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\Users\Oliver\Downloads\Music\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\Users\Oliver\Downloads\Music\WpfApplication1\bin\Release\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\Oliver\Downloads\Music\WpfApplication1\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\Oliver\Downloads\Music\WpfApplication1\bin\Release\Microsoft.DirectX.dll
+C:\Users\Oliver\Downloads\Music\WpfApplication1\bin\Release\Microsoft.DirectX.Direct3D.dll
+C:\Users\Oliver\Downloads\Music\WpfApplication1\bin\Release\Microsoft.DirectX.xml
+C:\Users\Oliver\Downloads\Music\WpfApplication1\bin\Release\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\Oliver\Downloads\Music\WpfApplication1\bin\Release\Microsoft.DirectX.DirectSound.xml
+C:\Users\Oliver\Downloads\Music\WpfApplication1\bin\Release\Microsoft.DirectX.Direct3D.xml
+C:\Users\Oliver\Downloads\Music\WpfApplication1\obj\x86\Release\WpfApplication1.exe.manifest
+C:\Users\Oliver\Downloads\Music\WpfApplication1\obj\x86\Release\WpfApplication1.application
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\bin\Release\WpfApplication1.exe.config
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\obj\x86\Release\Interop.DXTRANSLib.dll
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\obj\x86\Release\WpfApplication1.csproj.ResolveComReference.cache
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\obj\x86\Release\WpfApplication1.exe
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\obj\x86\Release\WpfApplication1.pdb
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\bin\Release\WpfApplication1.exe.manifest
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\bin\Release\WpfApplication1.application
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\bin\Release\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\bin\Release\Microsoft.DirectX.dll
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\bin\Release\Microsoft.DirectX.Direct3D.dll
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\bin\Release\Microsoft.DirectX.xml
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\bin\Release\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\bin\Release\Microsoft.DirectX.DirectSound.xml
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\bin\Release\Microsoft.DirectX.Direct3D.xml
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\obj\x86\Release\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\obj\x86\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\obj\x86\Release\WpfApplication1_MarkupCompile.lref
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\obj\x86\Release\WpfApplication1.g.resources
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\obj\x86\Release\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\obj\x86\Release\WpfApplication1.exe.manifest
+C:\Users\Oliver\Development\CAB401 High Performance and Parallel Computing\Assignment\Base-Iterative\WpfApplication1\obj\x86\Release\WpfApplication1.application
